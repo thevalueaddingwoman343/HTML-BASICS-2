@@ -1,0 +1,37 @@
+body{
+margin: 0;
+padding: 0;
+background;linear-gradient (135deg, green, white);
+font-family:'Monserrat', sans -serif;
+display: flex;
+justify-content: center;
+align-items: center; 
+height: 100vh;
+ }
+
+.profile-card {
+background:linear-gradient(135deg, green, white)               
+cover;
+color:white;
+padding: 32px;
+width: 272px;
+border-radius: 30px;
+text-align: center;
+box-shadow: rgb(163, 29, 100);
+}
+
+.profile-card h1 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 22px ;
+    margin-bottom: 30px;
+}
+.profile-card .bio {
+    font-size: 14px ;
+    margin-bottom: 20px;
+}
+
+.profile-card .blockquote {
+    font-style: italic;
+    font-size: 18px;
+margin-top: 20px;
+}
